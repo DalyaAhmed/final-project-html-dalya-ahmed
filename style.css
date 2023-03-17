@@ -121,7 +121,7 @@ main {
     flex-direction: column;
     padding-top: 7em;
     align-items: center;
-    background-image:linear-gradient(rgba(231, 205, 205, 0.8),rgba(206, 198, 198, 0.4)),url(/images/flower-background.jpeg);
+    background-image:linear-gradient(rgba(231, 205, 205, 0.8),rgba(206, 198, 198, 0.4)),url(images/flower-background.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
    
@@ -212,16 +212,16 @@ main {
 }
 
 .card1 {
-    background-image: url(/images/pic-1.png);
+    background-image: url(images/pic-1.png);
 }
 .card2 {
-    background-image: url(/images/pic-2.png);
+    background-image: url(images/pic-2.png);
 }
 .card3 {
-    background-image: url(/images/pic-3.png);
+    background-image: url(images/pic-3.png);
 }
 .card4 {
-    background-image: url(/images/pic4-bg.jpeg);
+    background-image: url(images/pic4-bg.jpeg);
 }
 
 /* h5 has animation (change-color) */
